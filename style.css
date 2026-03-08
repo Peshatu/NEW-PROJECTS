@@ -3,8 +3,8 @@ p{
 }
   h1.my-p-class {
     /*background color: yellow*/
-    cplor: red;
-    font style: italic;
+    color: red;
+    font-style: italic;
     padding-left: 100px;
   } 
 first div{
@@ -14,3 +14,4 @@ first div{
         color: purple;
         background-color: black;
     }
+}

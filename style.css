@@ -1,5 +1,5 @@
 p{
-    color: orange;
+    color: blue;
 }
   h1.my-p-class {
     /*background color: yellow*/
@@ -7,11 +7,18 @@ p{
     font-style: italic;
     padding-left: 100px;
   } 
+  #container{
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 30px;
+    margin: 20px;
+}
 first div{
-    background-color: green;
-
+    background-color: lightseagreen;
+    margin: 20px;
+    padding: 20px;
     span{
-        color: purple;
-        background-color: black;
+        color: lightseagreen;
+        background-color: pink;
     }
 }
